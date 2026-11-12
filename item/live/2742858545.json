@@ -1,0 +1,29 @@
+{
+    "id":  "2742858545",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2742858545"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/2742858545.png"
+               },
+    "name":  "NICKELODEON (6)",
+    "epg":  [
+                {
+                    "title":  "SpongeBob Schwammkopf",
+                    "start":  "2026-11-12T19:00:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                },
+                {
+                    "title":  "Victorious",
+                    "start":  "2026-11-13T00:00:00Z",
+                    "end":  "2026-11-13T00:20:00Z"
+                }
+            ]
+}

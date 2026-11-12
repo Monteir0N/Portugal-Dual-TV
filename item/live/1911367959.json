@@ -1,0 +1,29 @@
+{
+    "id":  "1911367959",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1911367959"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/1911367959.png"
+               },
+    "name":  "SIC NOVELAS (6)",
+    "epg":  [
+                {
+                    "title":  "Vidas Opostas",
+                    "start":  "2026-11-12T22:45:00Z",
+                    "end":  "2026-11-12T23:30:00Z"
+                },
+                {
+                    "title":  "Amor Valente",
+                    "start":  "2026-11-12T23:30:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                }
+            ]
+}

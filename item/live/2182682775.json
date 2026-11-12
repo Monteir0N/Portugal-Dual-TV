@@ -1,0 +1,29 @@
+{
+    "id":  "2182682775",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2182682775"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/2182682775.png"
+               },
+    "name":  "CNN PORTUGAL (6)",
+    "epg":  [
+                {
+                    "title":  "CNN Prime Time",
+                    "start":  "2026-11-12T21:56:00Z",
+                    "end":  "2026-11-12T23:50:00Z"
+                },
+                {
+                    "title":  "CNN Meia Noite",
+                    "start":  "2026-11-12T23:50:00Z",
+                    "end":  "2026-11-13T02:00:00Z"
+                }
+            ]
+}

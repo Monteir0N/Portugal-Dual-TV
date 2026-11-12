@@ -1,0 +1,26 @@
+{
+    "id":  "2599146036",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2599146036"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "TVCINE EDITION HD (1)",
+    "epg":  [
+                {
+                    "title":  "Que Farei Eu Com Esta Espada?",
+                    "start":  "2026-11-12T22:42:00Z",
+                    "end":  "2026-11-12T23:46:00Z"
+                },
+                {
+                    "title":  "4 Amantes",
+                    "start":  "2026-11-12T23:46:00Z",
+                    "end":  "2026-11-13T01:27:00Z"
+                }
+            ]
+}

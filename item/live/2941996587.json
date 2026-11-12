@@ -1,0 +1,26 @@
+{
+    "id":  "2941996587",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2941996587"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "STV NOTICIAS (6)",
+    "epg":  [
+                {
+                    "title":  "Hora E Meia",
+                    "start":  "2026-11-12T22:00:00Z",
+                    "end":  "2026-11-12T23:30:00Z"
+                },
+                {
+                    "title":  "Noite Informativa",
+                    "start":  "2026-11-12T23:30:00Z",
+                    "end":  "2026-11-13T00:30:00Z"
+                }
+            ]
+}

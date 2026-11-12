@@ -1,0 +1,29 @@
+{
+    "id":  "3354497993",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/3354497993"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/3354497993.png"
+               },
+    "name":  "CASA E COZINHA (6)",
+    "epg":  [
+                {
+                    "title":  "A Ilha do Bryan",
+                    "start":  "2026-11-12T22:55:00Z",
+                    "end":  "2026-11-12T23:45:00Z"
+                },
+                {
+                    "title":  "A Ilha do Bryan",
+                    "start":  "2026-11-12T23:45:00Z",
+                    "end":  "2026-11-13T00:35:00Z"
+                }
+            ]
+}

@@ -1,0 +1,29 @@
+{
+    "id":  "2736589383",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2736589383"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/2736589383.png"
+               },
+    "name":  "SIC CARAS (6)",
+    "epg":  [
+                {
+                    "title":  "Passadeira Vermelha",
+                    "start":  "2026-11-12T22:30:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                },
+                {
+                    "title":  "Ilha da Tentação Espanha",
+                    "start":  "2026-11-13T00:00:00Z",
+                    "end":  "2026-11-13T00:30:00Z"
+                }
+            ]
+}

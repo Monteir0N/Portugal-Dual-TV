@@ -1,0 +1,17 @@
+{
+    "id":  "2121846219",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2121846219"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/2121846219.png"
+               },
+    "name":  "NBA TV (6)"
+}

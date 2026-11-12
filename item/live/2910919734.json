@@ -1,0 +1,26 @@
+{
+    "id":  "2910919734",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2910919734"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "E! ENTERTAINMENT (1)",
+    "epg":  [
+                {
+                    "title":  "WAGS",
+                    "start":  "2026-11-12T22:30:00Z",
+                    "end":  "2026-11-12T23:30:00Z"
+                },
+                {
+                    "title":  "Watch What Happens Live",
+                    "start":  "2026-11-12T23:30:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                }
+            ]
+}

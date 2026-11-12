@@ -1,0 +1,29 @@
+{
+    "id":  "2640469163",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2640469163"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/2640469163.png"
+               },
+    "name":  "KURIAKOS TV (6)",
+    "epg":  [
+                {
+                    "title":  "Isto É o Povo a Falar",
+                    "start":  "2026-11-12T23:00:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                },
+                {
+                    "title":  "ABC da Família",
+                    "start":  "2026-11-13T00:00:00Z",
+                    "end":  "2026-11-13T00:30:00Z"
+                }
+            ]
+}

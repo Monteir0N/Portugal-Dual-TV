@@ -1,0 +1,26 @@
+{
+    "id":  "1885378174",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1885378174"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "RTP AFRICA (1)",
+    "epg":  [
+                {
+                    "title":  "Programa Cautelar",
+                    "start":  "2026-11-12T22:38:00Z",
+                    "end":  "2026-11-12T23:31:00Z"
+                },
+                {
+                    "title":  "Situações Delicadas",
+                    "start":  "2026-11-12T23:31:00Z",
+                    "end":  "2026-11-12T23:57:00Z"
+                }
+            ]
+}

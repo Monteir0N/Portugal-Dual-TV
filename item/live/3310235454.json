@@ -1,0 +1,17 @@
+{
+    "id":  "3310235454",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/3310235454"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/3310235454.png"
+               },
+    "name":  "RTP 3 (6)"
+}

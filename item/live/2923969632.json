@@ -1,0 +1,26 @@
+{
+    "id":  "2923969632",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2923969632"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "SPORT TV 3 HD (1)",
+    "epg":  [
+                {
+                    "title":  "Lpga Tour 2026 - Lpga Tour",
+                    "start":  "2026-11-12T21:45:00Z",
+                    "end":  "2026-11-12T23:45:00Z"
+                },
+                {
+                    "title":  "Hipismo: Taça do Mundo, Fort Worth - Verona, Itália - Resumo (Magazine)",
+                    "start":  "2026-11-12T23:45:00Z",
+                    "end":  "2026-11-13T00:40:00Z"
+                }
+            ]
+}

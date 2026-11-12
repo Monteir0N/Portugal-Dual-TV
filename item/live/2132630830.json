@@ -1,0 +1,26 @@
+{
+    "id":  "2132630830",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2132630830"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "SIC NOTICIAS HD (1)",
+    "epg":  [
+                {
+                    "title":  "O Eixo do Mal",
+                    "start":  "2026-11-12T23:00:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                },
+                {
+                    "title":  "Jornal da Meia-Noite",
+                    "start":  "2026-11-13T00:00:00Z",
+                    "end":  "2026-11-13T01:00:00Z"
+                }
+            ]
+}

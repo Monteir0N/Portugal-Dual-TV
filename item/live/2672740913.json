@@ -1,0 +1,29 @@
+{
+    "id":  "2672740913",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2672740913"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/2672740913.png"
+               },
+    "name":  "CARTOON NETWORK (6)",
+    "epg":  [
+                {
+                    "title":  "Regular Show",
+                    "start":  "2026-11-12T22:54:00Z",
+                    "end":  "2026-11-12T23:08:00Z"
+                },
+                {
+                    "title":  "Die fantastische Welt von Gumball",
+                    "start":  "2026-11-12T23:08:00Z",
+                    "end":  "2026-11-12T23:19:00Z"
+                }
+            ]
+}

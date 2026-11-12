@@ -1,0 +1,26 @@
+{
+    "id":  "2422531998",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2422531998"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "STAR CRIME (6)",
+    "epg":  [
+                {
+                    "title":  "Mentes Criminosas",
+                    "start":  "2026-11-12T22:56:00Z",
+                    "end":  "2026-11-12T23:49:00Z"
+                },
+                {
+                    "title":  "Mentes Criminosas",
+                    "start":  "2026-11-12T23:49:00Z",
+                    "end":  "2026-11-13T00:40:00Z"
+                }
+            ]
+}

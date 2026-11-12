@@ -1,0 +1,26 @@
+{
+    "id":  "3100022685",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/3100022685"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "HGTV (6)",
+    "epg":  [
+                {
+                    "title":  "fRaNkEnHoUsE - Renovieren statt kapitulieren",
+                    "start":  "2026-11-12T22:37:00Z",
+                    "end":  "2026-11-12T23:37:00Z"
+                },
+                {
+                    "title":  "Jackpot! - Hauptpreis Traumhaus",
+                    "start":  "2026-11-12T23:37:00Z",
+                    "end":  "2026-11-13T00:05:00Z"
+                }
+            ]
+}

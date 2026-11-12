@@ -1,0 +1,26 @@
+{
+    "id":  "2760717689",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2760717689"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "SPORT TV 4 HD (1)",
+    "epg":  [
+                {
+                    "title":  "NASCAR Cup Series 2026 - Highlights - NASCAR Cup Series Championship Race - Resumo",
+                    "start":  "2026-11-12T22:45:00Z",
+                    "end":  "2026-11-12T23:40:00Z"
+                },
+                {
+                    "title":  "NASCAR OReilly Parts Series 2026 - Highlights - Noaps Championship Race - Resumo",
+                    "start":  "2026-11-12T23:40:00Z",
+                    "end":  "2026-11-13T00:35:00Z"
+                }
+            ]
+}

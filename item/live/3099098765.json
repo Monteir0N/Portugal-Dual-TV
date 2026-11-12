@@ -1,0 +1,26 @@
+{
+    "id":  "3099098765",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/3099098765"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "SIC HD (1)",
+    "epg":  [
+                {
+                    "title":  "Páginas Da Vida",
+                    "start":  "2026-11-12T22:55:00Z",
+                    "end":  "2026-11-13T00:05:00Z"
+                },
+                {
+                    "title":  "Casados Primeira Vista",
+                    "start":  "2026-11-13T00:05:00Z",
+                    "end":  "2026-11-13T01:10:00Z"
+                }
+            ]
+}

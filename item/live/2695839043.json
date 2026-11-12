@@ -1,0 +1,29 @@
+{
+    "id":  "2695839043",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2695839043"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/2695839043.png"
+               },
+    "name":  "CANAL PANDA (6)",
+    "epg":  [
+                {
+                    "title":  "Masha e o Urso",
+                    "start":  "2026-11-12T23:00:00Z",
+                    "end":  "2026-11-12T23:07:00Z"
+                },
+                {
+                    "title":  "Masha e o Urso",
+                    "start":  "2026-11-12T23:07:00Z",
+                    "end":  "2026-11-12T23:14:00Z"
+                }
+            ]
+}

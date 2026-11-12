@@ -1,0 +1,29 @@
+{
+    "id":  "2647788125",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2647788125"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/2647788125.png"
+               },
+    "name":  "TVI (6)",
+    "epg":  [
+                {
+                    "title":  "Coração De Mãe",
+                    "start":  "2026-11-12T22:35:00Z",
+                    "end":  "2026-11-12T23:20:00Z"
+                },
+                {
+                    "title":  "A Madrasta",
+                    "start":  "2026-11-12T23:20:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                }
+            ]
+}

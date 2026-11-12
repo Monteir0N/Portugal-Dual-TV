@@ -1,0 +1,26 @@
+{
+    "id":  "3495357111",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/3495357111"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "EUROSPORT 2 (1)",
+    "epg":  [
+                {
+                    "title":  "World Snooker Tour",
+                    "start":  "2026-11-12T23:00:00Z",
+                    "end":  "2026-11-13T00:30:00Z"
+                },
+                {
+                    "title":  "FIA WEC",
+                    "start":  "2026-11-13T00:30:00Z",
+                    "end":  "2026-11-13T03:00:00Z"
+                }
+            ]
+}

@@ -1,0 +1,17 @@
+{
+    "id":  "2635838576",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2635838576"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/2635838576.png"
+               },
+    "name":  "E! (6)"
+}

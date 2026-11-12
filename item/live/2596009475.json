@@ -1,0 +1,29 @@
+{
+    "id":  "2596009475",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2596009475"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/2596009475.png"
+               },
+    "name":  "CINE MUNDO (6)",
+    "epg":  [
+                {
+                    "title":  "O Último Combate",
+                    "start":  "2026-11-12T22:30:00Z",
+                    "end":  "2026-11-13T00:20:00Z"
+                },
+                {
+                    "title":  "Peppermint",
+                    "start":  "2026-11-13T00:20:00Z",
+                    "end":  "2026-11-13T02:05:00Z"
+                }
+            ]
+}

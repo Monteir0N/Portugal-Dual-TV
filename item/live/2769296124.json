@@ -1,0 +1,29 @@
+{
+    "id":  "2769296124",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2769296124"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/2769296124.png"
+               },
+    "name":  "TRAVELXP (6)",
+    "epg":  [
+                {
+                    "title":  "World Heritage",
+                    "start":  "2026-11-12T23:00:00Z",
+                    "end":  "2026-11-12T23:30:00Z"
+                },
+                {
+                    "title":  "Taco To Tikka",
+                    "start":  "2026-11-12T23:30:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                }
+            ]
+}

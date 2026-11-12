@@ -1,0 +1,26 @@
+{
+    "id":  "2869243622",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2869243622"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "W-SPORT (6)",
+    "epg":  [
+                {
+                    "title":  "WSWC 2027 - Italy x Australia",
+                    "start":  "2026-11-12T21:00:00Z",
+                    "end":  "2026-11-12T23:30:00Z"
+                },
+                {
+                    "title":  "MP 2026: Trans Sahara Marathon, MP 2026",
+                    "start":  "2026-11-12T23:30:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                }
+            ]
+}

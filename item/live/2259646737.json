@@ -1,0 +1,26 @@
+{
+    "id":  "2259646737",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2259646737"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "SPORT TV (1)",
+    "epg":  [
+                {
+                    "title":  "Últimas Notícias",
+                    "start":  "2026-11-12T23:00:00Z",
+                    "end":  "2026-11-12T23:30:00Z"
+                },
+                {
+                    "title":  "UEFA Nations League - República Checa x Espanha",
+                    "start":  "2026-11-12T23:30:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                }
+            ]
+}

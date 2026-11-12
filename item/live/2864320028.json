@@ -1,0 +1,26 @@
+{
+    "id":  "2864320028",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2864320028"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "PORTO CANAL (BACKUP) (1)",
+    "epg":  [
+                {
+                    "title":  "Noite Desportiva",
+                    "start":  "2026-11-12T22:30:00Z",
+                    "end":  "2026-11-13T05:30:00Z"
+                },
+                {
+                    "title":  "Flash Porto",
+                    "start":  "2026-11-13T05:30:00Z",
+                    "end":  "2026-11-13T06:00:00Z"
+                }
+            ]
+}

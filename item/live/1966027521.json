@@ -1,0 +1,29 @@
+{
+    "id":  "1966027521",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1966027521"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/1966027521.png"
+               },
+    "name":  "TLC (6)",
+    "epg":  [
+                {
+                    "title":  "The Dead Files",
+                    "start":  "2026-11-12T22:14:00Z",
+                    "end":  "2026-11-12T23:11:00Z"
+                },
+                {
+                    "title":  "72 Stunden im Geisterhaus",
+                    "start":  "2026-11-12T23:11:00Z",
+                    "end":  "2026-11-13T00:10:00Z"
+                }
+            ]
+}

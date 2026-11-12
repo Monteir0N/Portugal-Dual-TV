@@ -1,0 +1,17 @@
+{
+    "id":  "3380920371",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/3380920371"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/3380920371.png"
+               },
+    "name":  "JIMJAM (6)"
+}

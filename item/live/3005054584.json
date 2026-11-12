@@ -1,0 +1,26 @@
+{
+    "id":  "3005054584",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/3005054584"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "MCM POP (1)",
+    "epg":  [
+                {
+                    "title":  "Pop List",
+                    "start":  "2026-11-12T16:00:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                },
+                {
+                    "title":  "Pop List",
+                    "start":  "2026-11-13T00:00:00Z",
+                    "end":  "2026-11-13T08:00:00Z"
+                }
+            ]
+}

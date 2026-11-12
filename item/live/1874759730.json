@@ -1,0 +1,26 @@
+{
+    "id":  "1874759730",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1874759730"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "CANAL 180 (6)",
+    "epg":  [
+                {
+                    "title":  "Novas Narrativas / Biograff",
+                    "start":  "2026-11-12T22:00:00Z",
+                    "end":  "2026-11-12T23:35:00Z"
+                },
+                {
+                    "title":  "I Like Color",
+                    "start":  "2026-11-12T23:35:00Z",
+                    "end":  "2026-11-12T23:55:00Z"
+                }
+            ]
+}

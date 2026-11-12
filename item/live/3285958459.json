@@ -1,0 +1,26 @@
+{
+    "id":  "3285958459",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/3285958459"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "NICK JR. (1)",
+    "epg":  [
+                {
+                    "title":  "BARBAPAPÁ - One Big Happy Family!",
+                    "start":  "2026-11-12T22:55:00Z",
+                    "end":  "2026-11-12T23:15:00Z"
+                },
+                {
+                    "title":  "Rubble e Companhia",
+                    "start":  "2026-11-12T23:15:00Z",
+                    "end":  "2026-11-12T23:40:00Z"
+                }
+            ]
+}

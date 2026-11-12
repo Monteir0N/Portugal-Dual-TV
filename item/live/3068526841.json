@@ -1,0 +1,14 @@
+{
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/3068526841"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "TV GLOBO (1)",
+    "id":  "3068526841",
+    "type":  "live"
+}

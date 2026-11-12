@@ -1,0 +1,26 @@
+{
+    "id":  "1961433088",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1961433088"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "RTP ACORES (1)",
+    "epg":  [
+                {
+                    "title":  "Cá Por Casa Com Herman José",
+                    "start":  "2026-11-12T22:50:00Z",
+                    "end":  "2026-11-13T00:07:00Z"
+                },
+                {
+                    "title":  "A Essência",
+                    "start":  "2026-11-13T00:07:00Z",
+                    "end":  "2026-11-13T00:30:00Z"
+                }
+            ]
+}

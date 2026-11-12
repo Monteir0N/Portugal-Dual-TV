@@ -1,0 +1,17 @@
+{
+    "id":  "2346139408",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2346139408"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/2346139408.png"
+               },
+    "name":  "TV MANA 2 (6)"
+}

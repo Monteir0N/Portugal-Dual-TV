@@ -1,0 +1,26 @@
+{
+    "id":  "1810812136",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1810812136"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "DAZN 3 (6)",
+    "epg":  [
+                {
+                    "title":  "UEFA Conference League 26/27 - FC Thun x Hearts",
+                    "start":  "2026-11-12T23:00:00Z",
+                    "end":  "2026-11-13T01:00:00Z"
+                },
+                {
+                    "title":  "Informação Não Disponibilizada Pelo Canal",
+                    "start":  "2026-11-13T01:00:00Z",
+                    "end":  "2026-11-13T01:30:00Z"
+                }
+            ]
+}

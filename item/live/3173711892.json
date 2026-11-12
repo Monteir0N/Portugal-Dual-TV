@@ -1,0 +1,29 @@
+{
+    "id":  "3173711892",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/3173711892"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/3173711892.png"
+               },
+    "name":  "CANAL NOS (6)",
+    "epg":  [
+                {
+                    "title":  "Novidades em Breve",
+                    "start":  "2026-11-12T18:00:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                },
+                {
+                    "title":  "Novidades em Breve",
+                    "start":  "2026-11-13T00:00:00Z",
+                    "end":  "2026-11-13T06:00:00Z"
+                }
+            ]
+}

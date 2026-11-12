@@ -1,0 +1,29 @@
+{
+    "id":  "2854171354",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2854171354"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/2854171354.png"
+               },
+    "name":  "SIC K (6)",
+    "epg":  [
+                {
+                    "title":  "Jurassic World: Teoria do Caos",
+                    "start":  "2026-11-12T22:45:00Z",
+                    "end":  "2026-11-12T23:15:00Z"
+                },
+                {
+                    "title":  "Jurassic World: Teoria do Caos",
+                    "start":  "2026-11-12T23:15:00Z",
+                    "end":  "2026-11-12T23:30:00Z"
+                }
+            ]
+}

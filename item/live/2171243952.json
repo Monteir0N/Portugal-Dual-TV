@@ -1,0 +1,29 @@
+{
+    "id":  "2171243952",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2171243952"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/2171243952.png"
+               },
+    "name":  "PANDA KIDS (6)",
+    "epg":  [
+                {
+                    "title":  "Boruto: Naruto Next Generations",
+                    "start":  "2026-11-12T22:52:00Z",
+                    "end":  "2026-11-12T23:27:00Z"
+                },
+                {
+                    "title":  "Pokémon Horizons",
+                    "start":  "2026-11-12T23:27:00Z",
+                    "end":  "2026-11-12T23:48:00Z"
+                }
+            ]
+}

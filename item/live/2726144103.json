@@ -1,0 +1,29 @@
+{
+    "id":  "2726144103",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2726144103"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/2726144103.png"
+               },
+    "name":  "NOS STUDIOS (6)",
+    "epg":  [
+                {
+                    "title":  "Transformers: o Último Cavaleiro",
+                    "start":  "2026-11-12T21:15:00Z",
+                    "end":  "2026-11-12T23:41:00Z"
+                },
+                {
+                    "title":  "Esquadrão de Combate",
+                    "start":  "2026-11-12T23:41:00Z",
+                    "end":  "2026-11-13T01:02:00Z"
+                }
+            ]
+}

@@ -1,0 +1,29 @@
+{
+    "id":  "2118231470",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2118231470"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/2118231470.png"
+               },
+    "name":  "SPORT TV 6 (6)",
+    "epg":  [
+                {
+                    "title":  "Sem Emissão",
+                    "start":  "2026-11-12T21:30:00Z",
+                    "end":  "2026-11-13T06:00:00Z"
+                },
+                {
+                    "title":  "Sem Emissão",
+                    "start":  "2026-11-13T06:00:00Z",
+                    "end":  "2026-11-13T16:00:00Z"
+                }
+            ]
+}
