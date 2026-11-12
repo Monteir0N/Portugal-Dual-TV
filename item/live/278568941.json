@@ -1,0 +1,29 @@
+{
+    "id":  "278568941",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/278568941"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/278568941.png"
+               },
+    "name":  "NAT GEO WILD (6)",
+    "epg":  [
+                {
+                    "title":  "Най-смъртоносните в Африка",
+                    "start":  "2026-11-12T23:00:00Z",
+                    "end":  "2026-11-12T23:45:00Z"
+                },
+                {
+                    "title":  "Нещо ме ухапа",
+                    "start":  "2026-11-12T23:45:00Z",
+                    "end":  "2026-11-13T00:30:00Z"
+                }
+            ]
+}

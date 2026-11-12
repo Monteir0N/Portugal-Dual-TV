@@ -1,0 +1,29 @@
+{
+    "id":  "174225106",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/174225106"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/174225106.png"
+               },
+    "name":  "MOTORVISION TV (6)",
+    "epg":  [
+                {
+                    "title":  "Classic Races",
+                    "start":  "2026-11-12T23:05:00Z",
+                    "end":  "2026-11-12T23:35:00Z"
+                },
+                {
+                    "title":  "NTT Indycar Series 2026 Qualifying",
+                    "start":  "2026-11-12T23:35:00Z",
+                    "end":  "2026-11-13T01:05:00Z"
+                }
+            ]
+}

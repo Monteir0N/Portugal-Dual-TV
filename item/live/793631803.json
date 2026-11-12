@@ -1,0 +1,26 @@
+{
+    "id":  "793631803",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/793631803"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "TVCINE ACTION HD (1)",
+    "epg":  [
+                {
+                    "title":  "Bem-Vindos à Selva",
+                    "start":  "2026-11-12T22:55:00Z",
+                    "end":  "2026-11-13T00:37:00Z"
+                },
+                {
+                    "title":  "Animale",
+                    "start":  "2026-11-13T00:37:00Z",
+                    "end":  "2026-11-13T02:17:00Z"
+                }
+            ]
+}

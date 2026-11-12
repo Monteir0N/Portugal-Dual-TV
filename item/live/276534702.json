@@ -1,0 +1,14 @@
+{
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/276534702"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "RTP 3 (1)",
+    "id":  "276534702",
+    "type":  "live"
+}

@@ -1,0 +1,26 @@
+{
+    "id":  "892615341",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/892615341"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "ODISSEIA (1)",
+    "epg":  [
+                {
+                    "title":  "Dinastias",
+                    "start":  "2026-11-12T22:30:00Z",
+                    "end":  "2026-11-12T23:29:00Z"
+                },
+                {
+                    "title":  "Dinastias",
+                    "start":  "2026-11-12T23:29:00Z",
+                    "end":  "2026-11-13T00:31:00Z"
+                }
+            ]
+}

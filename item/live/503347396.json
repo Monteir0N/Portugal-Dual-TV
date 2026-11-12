@@ -1,0 +1,26 @@
+{
+    "id":  "503347396",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/503347396"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "NATIONAL GEOGRAPHIC (1)",
+    "epg":  [
+                {
+                    "title":  "A Última Tentativa de Hitler",
+                    "start":  "2026-11-12T22:53:00Z",
+                    "end":  "2026-11-12T23:35:00Z"
+                },
+                {
+                    "title":  "Apocalipse da Segunda Guerra Mundial",
+                    "start":  "2026-11-12T23:35:00Z",
+                    "end":  "2026-11-13T00:22:00Z"
+                }
+            ]
+}

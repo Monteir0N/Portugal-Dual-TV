@@ -1,0 +1,26 @@
+{
+    "id":  "771141542",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/771141542"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "DISNEY JUNIOR (1)",
+    "epg":  [
+                {
+                    "title":  "Superkitties",
+                    "start":  "2026-11-12T22:55:00Z",
+                    "end":  "2026-11-12T23:15:00Z"
+                },
+                {
+                    "title":  "Superkitties: Su-purr Charged",
+                    "start":  "2026-11-12T23:15:00Z",
+                    "end":  "2026-11-12T23:30:00Z"
+                }
+            ]
+}

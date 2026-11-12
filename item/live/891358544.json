@@ -1,0 +1,29 @@
+{
+    "id":  "891358544",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/891358544"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/891358544.png"
+               },
+    "name":  "STAR MOVIES (6)",
+    "epg":  [
+                {
+                    "title":  "À Volta Cá Te Espero",
+                    "start":  "2026-11-12T23:00:00Z",
+                    "end":  "2026-11-13T00:37:00Z"
+                },
+                {
+                    "title":  "Não Matar",
+                    "start":  "2026-11-13T00:37:00Z",
+                    "end":  "2026-11-13T02:01:00Z"
+                }
+            ]
+}

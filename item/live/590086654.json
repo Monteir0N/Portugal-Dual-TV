@@ -1,0 +1,29 @@
+{
+    "id":  "590086654",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/590086654"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/590086654.png"
+               },
+    "name":  "SIC MULHER (6)",
+    "epg":  [
+                {
+                    "title":  "Married At First Sight - Australia",
+                    "start":  "2026-11-12T23:00:00Z",
+                    "end":  "2026-11-12T23:45:00Z"
+                },
+                {
+                    "title":  "Elif",
+                    "start":  "2026-11-12T23:45:00Z",
+                    "end":  "2026-11-13T00:30:00Z"
+                }
+            ]
+}

@@ -1,0 +1,26 @@
+{
+    "id":  "1668808212",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1668808212"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "DISNEY CHANNEL (1)",
+    "epg":  [
+                {
+                    "title":  "Alice im Wunderland: Hinter den Spiegeln",
+                    "start":  "2026-11-12T21:50:00Z",
+                    "end":  "2026-11-13T00:03:00Z"
+                },
+                {
+                    "title":  "Teleshopping",
+                    "start":  "2026-11-13T00:03:00Z",
+                    "end":  "2026-11-13T02:03:00Z"
+                }
+            ]
+}

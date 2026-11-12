@@ -1,0 +1,21 @@
+{
+    "id":  "1452205400",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1452205400"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "DAZN 2 (6)",
+    "epg":  [
+                {
+                    "title":  "Sendepause",
+                    "start":  "2026-11-12T23:05:00Z",
+                    "end":  "2026-11-13T07:00:00Z"
+                }
+            ]
+}

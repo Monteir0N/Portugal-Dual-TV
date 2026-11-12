@@ -1,0 +1,26 @@
+{
+    "id":  "1332279307",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1332279307"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "CARTOONITO (6)",
+    "epg":  [
+                {
+                    "title":  "Mr. Bean - Die Cartoon-Serie",
+                    "start":  "2026-11-12T22:51:00Z",
+                    "end":  "2026-11-12T23:08:00Z"
+                },
+                {
+                    "title":  "Mr. Bean - Die Cartoon-Serie",
+                    "start":  "2026-11-12T23:08:00Z",
+                    "end":  "2026-11-12T23:19:00Z"
+                }
+            ]
+}

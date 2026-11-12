@@ -1,0 +1,29 @@
+{
+    "id":  "254790946",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/254790946"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/254790946.png"
+               },
+    "name":  "RTP INTERNACIONAL (6)",
+    "epg":  [
+                {
+                    "title":  "Tonight Show By Night",
+                    "start":  "2026-11-12T22:19:00Z",
+                    "end":  "2026-11-12T23:12:00Z"
+                },
+                {
+                    "title":  "Teia",
+                    "start":  "2026-11-12T23:12:00Z",
+                    "end":  "2026-11-12T23:40:00Z"
+                }
+            ]
+}

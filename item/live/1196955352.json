@@ -1,0 +1,29 @@
+{
+    "id":  "1196955352",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1196955352"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/1196955352.png"
+               },
+    "name":  "NAT GEO (6)",
+    "epg":  [
+                {
+                    "title":  "Alerta aeropuerto",
+                    "start":  "2026-11-12T22:59:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                },
+                {
+                    "title":  "Tucci en Italia",
+                    "start":  "2026-11-13T00:00:00Z",
+                    "end":  "2026-11-13T01:01:00Z"
+                }
+            ]
+}

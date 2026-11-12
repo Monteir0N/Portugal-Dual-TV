@@ -1,0 +1,26 @@
+{
+    "id":  "1422411879",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1422411879"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "RTP NOTÍCIAS (6)",
+    "epg":  [
+                {
+                    "title":  "Notícias Noite 2ª Edição",
+                    "start":  "2026-11-12T23:00:00Z",
+                    "end":  "2026-11-12T23:57:00Z"
+                },
+                {
+                    "title":  "24 Horas",
+                    "start":  "2026-11-12T23:57:00Z",
+                    "end":  "2026-11-13T01:00:00Z"
+                }
+            ]
+}

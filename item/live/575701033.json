@@ -1,0 +1,17 @@
+{
+    "id":  "575701033",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/575701033"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/575701033.png"
+               },
+    "name":  "DISCOVERY WORLD (6)"
+}

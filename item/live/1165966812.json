@@ -1,0 +1,29 @@
+{
+    "id":  "1165966812",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1165966812"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/1165966812.png"
+               },
+    "name":  "NICK JUNIOR (6)",
+    "epg":  [
+                {
+                    "title":  "BARBAPAPA - One Big Happy Family!",
+                    "start":  "2026-11-12T22:56:00Z",
+                    "end":  "2026-11-12T23:18:00Z"
+                },
+                {
+                    "title":  "Rubble \u0026 Crew",
+                    "start":  "2026-11-12T23:18:00Z",
+                    "end":  "2026-11-12T23:41:00Z"
+                }
+            ]
+}

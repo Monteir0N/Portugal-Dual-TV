@@ -1,0 +1,29 @@
+{
+    "id":  "199161253",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/199161253"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/199161253.png"
+               },
+    "name":  "CANAL 11 (6)",
+    "epg":  [
+                {
+                    "title":  "Futebol Total (Direto)",
+                    "start":  "2026-11-12T22:00:00Z",
+                    "end":  "2026-11-13T00:30:00Z"
+                },
+                {
+                    "title":  "Torneio Preparação Sub-18 - Portugal x Noruega",
+                    "start":  "2026-11-13T00:30:00Z",
+                    "end":  "2026-11-13T02:25:00Z"
+                }
+            ]
+}

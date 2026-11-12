@@ -1,0 +1,29 @@
+{
+    "id":  "1585099730",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1585099730"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/1585099730.png"
+               },
+    "name":  "DOG TV (6)",
+    "epg":  [
+                {
+                    "title":  "Relaxamento Noturno",
+                    "start":  "2026-11-12T23:00:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                },
+                {
+                    "title":  "Relaxamento",
+                    "start":  "2026-11-13T00:00:00Z",
+                    "end":  "2026-11-13T01:00:00Z"
+                }
+            ]
+}

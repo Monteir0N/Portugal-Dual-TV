@@ -1,0 +1,17 @@
+{
+    "id":  "80762089",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/80762089"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/80762089.png"
+               },
+    "name":  "MOTO GP HD (1)"
+}

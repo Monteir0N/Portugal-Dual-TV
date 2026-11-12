@@ -1,0 +1,29 @@
+{
+    "id":  "1167702614",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1167702614"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/1167702614.png"
+               },
+    "name":  "TVCINE TOP (6)",
+    "epg":  [
+                {
+                    "title":  "The Bricklayer: Missão Mortal",
+                    "start":  "2026-11-12T21:30:00Z",
+                    "end":  "2026-11-12T23:20:00Z"
+                },
+                {
+                    "title":  "The Order",
+                    "start":  "2026-11-12T23:20:00Z",
+                    "end":  "2026-11-13T01:15:00Z"
+                }
+            ]
+}

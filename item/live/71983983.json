@@ -1,0 +1,29 @@
+{
+    "id":  "71983983",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/71983983"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/71983983.png"
+               },
+    "name":  "FUEL TV (6)",
+    "epg":  [
+                {
+                    "title":  "Firsthand",
+                    "start":  "2026-11-12T23:00:00Z",
+                    "end":  "2026-11-12T23:30:00Z"
+                },
+                {
+                    "title":  "Firsthand",
+                    "start":  "2026-11-12T23:30:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                }
+            ]
+}

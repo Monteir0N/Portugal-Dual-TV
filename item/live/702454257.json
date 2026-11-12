@@ -1,0 +1,26 @@
+{
+    "id":  "702454257",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/702454257"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "SPORT TV 2 (BACKUP) (1)",
+    "epg":  [
+                {
+                    "title":  "Uefa Nations League - Magazine",
+                    "start":  "2026-11-12T21:45:00Z",
+                    "end":  "2026-11-12T23:45:00Z"
+                },
+                {
+                    "title":  "UEFA Nations League - Itália x França",
+                    "start":  "2026-11-12T23:45:00Z",
+                    "end":  "2026-11-13T01:45:00Z"
+                }
+            ]
+}

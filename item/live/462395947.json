@@ -1,0 +1,26 @@
+{
+    "id":  "462395947",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/462395947"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "MOTORVISION (BACKUP) (1)",
+    "epg":  [
+                {
+                    "title":  "Fastzone 2026",
+                    "start":  "2026-11-12T22:55:00Z",
+                    "end":  "2026-11-12T23:20:00Z"
+                },
+                {
+                    "title":  "Ferrari Challenge Europe 2026",
+                    "start":  "2026-11-12T23:20:00Z",
+                    "end":  "2026-11-13T00:10:00Z"
+                }
+            ]
+}

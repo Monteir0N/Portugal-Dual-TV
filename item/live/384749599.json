@@ -1,0 +1,26 @@
+{
+    "id":  "384749599",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/384749599"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "ELEVEN SPORT 3 (1)",
+    "epg":  [
+                {
+                    "title":  "Bundesliga Clubs",
+                    "start":  "2026-11-12T23:00:00Z",
+                    "end":  "2026-11-12T23:15:00Z"
+                },
+                {
+                    "title":  "Bundesliga Clubs",
+                    "start":  "2026-11-12T23:15:00Z",
+                    "end":  "2026-11-12T23:30:00Z"
+                }
+            ]
+}

@@ -1,0 +1,17 @@
+{
+    "id":  "231845708",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/231845708"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/231845708.png"
+               },
+    "name":  "CAMPO PEQUENO (6)"
+}

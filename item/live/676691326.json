@@ -1,0 +1,29 @@
+{
+    "id":  "676691326",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/676691326"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/676691326.png"
+               },
+    "name":  "SPORTING TV (6)",
+    "epg":  [
+                {
+                    "title":  "Paulo Fonseca - Há Sonhos Que Se Tornam Realidade",
+                    "start":  "2026-11-12T22:45:00Z",
+                    "end":  "2026-11-12T23:15:00Z"
+                },
+                {
+                    "title":  "Passaporte Sporting",
+                    "start":  "2026-11-12T23:15:00Z",
+                    "end":  "2026-11-12T23:25:00Z"
+                }
+            ]
+}

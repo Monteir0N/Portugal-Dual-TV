@@ -1,0 +1,17 @@
+{
+    "id":  "1243809524",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1243809524"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/1243809524.png"
+               },
+    "name":  "TOROS TV (1)"
+}

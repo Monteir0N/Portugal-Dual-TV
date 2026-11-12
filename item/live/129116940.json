@@ -1,0 +1,26 @@
+{
+    "id":  "129116940",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/129116940"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "NEWS NOW (6)",
+    "epg":  [
+                {
+                    "title":  "Jornal À Noite",
+                    "start":  "2026-11-12T21:30:00Z",
+                    "end":  "2026-11-12T23:55:00Z"
+                },
+                {
+                    "title":  "Now À Meia Noite",
+                    "start":  "2026-11-12T23:55:00Z",
+                    "end":  "2026-11-13T02:30:00Z"
+                }
+            ]
+}

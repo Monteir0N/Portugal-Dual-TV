@@ -1,0 +1,29 @@
+{
+    "id":  "299880045",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/299880045"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/299880045.png"
+               },
+    "name":  "V+ TVI (6)",
+    "epg":  [
+                {
+                    "title":  "V+ Futebol",
+                    "start":  "2026-11-12T21:50:00Z",
+                    "end":  "2026-11-12T23:36:00Z"
+                },
+                {
+                    "title":  "V+ Fama",
+                    "start":  "2026-11-12T23:36:00Z",
+                    "end":  "2026-11-13T00:45:00Z"
+                }
+            ]
+}

@@ -1,0 +1,26 @@
+{
+    "id":  "1672952983",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1672952983"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "STINGRAY ICONCERTS (6)",
+    "epg":  [
+                {
+                    "title":  "George Michael: Live In London",
+                    "start":  "2026-11-12T23:00:00Z",
+                    "end":  "2026-11-13T01:13:00Z"
+                },
+                {
+                    "title":  "Pet Shop Boys: Live at Roskilde 2009",
+                    "start":  "2026-11-13T01:13:00Z",
+                    "end":  "2026-11-13T01:54:00Z"
+                }
+            ]
+}

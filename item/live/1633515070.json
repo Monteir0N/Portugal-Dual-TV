@@ -1,0 +1,17 @@
+{
+    "id":  "1633515070",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1633515070"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/1633515070.png"
+               },
+    "name":  "SYFY PORTUGAL (6)"
+}

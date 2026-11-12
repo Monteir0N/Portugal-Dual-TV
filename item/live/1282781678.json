@@ -1,0 +1,26 @@
+{
+    "id":  "1282781678",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1282781678"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "STAR COMEDY (6)",
+    "epg":  [
+                {
+                    "title":  "Friends",
+                    "start":  "2026-11-12T23:04:00Z",
+                    "end":  "2026-11-12T23:25:00Z"
+                },
+                {
+                    "title":  "Friends",
+                    "start":  "2026-11-12T23:25:00Z",
+                    "end":  "2026-11-12T23:46:00Z"
+                }
+            ]
+}

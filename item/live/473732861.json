@@ -1,0 +1,26 @@
+{
+    "id":  "473732861",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/473732861"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "STAR CHANNEL (6)",
+    "epg":  [
+                {
+                    "title":  "Jack Ryan",
+                    "start":  "2026-11-12T23:04:00Z",
+                    "end":  "2026-11-13T00:01:00Z"
+                },
+                {
+                    "title":  "FBI: Most Wanted",
+                    "start":  "2026-11-13T00:01:00Z",
+                    "end":  "2026-11-13T00:55:00Z"
+                }
+            ]
+}

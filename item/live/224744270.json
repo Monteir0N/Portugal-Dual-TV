@@ -1,0 +1,26 @@
+{
+    "id":  "224744270",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/224744270"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "TRAVEL CHANNEL HD (1)",
+    "epg":  [
+                {
+                    "title":  "Bizarre Foods With Andrew Zimmern",
+                    "start":  "2026-11-12T22:40:00Z",
+                    "end":  "2026-11-12T23:30:00Z"
+                },
+                {
+                    "title":  "The Ghost Town Terror",
+                    "start":  "2026-11-12T23:30:00Z",
+                    "end":  "2026-11-13T00:15:00Z"
+                }
+            ]
+}

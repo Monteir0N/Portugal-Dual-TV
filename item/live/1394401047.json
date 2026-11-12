@@ -1,0 +1,26 @@
+{
+    "id":  "1394401047",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1394401047"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "RTP 1 HD (1)",
+    "epg":  [
+                {
+                    "title":  "Tonight Show By Night",
+                    "start":  "2026-11-12T22:30:00Z",
+                    "end":  "2026-11-12T23:30:00Z"
+                },
+                {
+                    "title":  "Fora de Série",
+                    "start":  "2026-11-12T23:30:00Z",
+                    "end":  "2026-11-13T00:30:00Z"
+                }
+            ]
+}

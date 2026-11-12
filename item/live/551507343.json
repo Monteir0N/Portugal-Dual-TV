@@ -1,0 +1,29 @@
+{
+    "id":  "551507343",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/551507343"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/551507343.png"
+               },
+    "name":  "PORTO CANAL (6)",
+    "epg":  [
+                {
+                    "title":  "Noite Desportiva",
+                    "start":  "2026-11-12T22:30:00Z",
+                    "end":  "2026-11-13T05:30:00Z"
+                },
+                {
+                    "title":  "Flash Porto",
+                    "start":  "2026-11-13T05:30:00Z",
+                    "end":  "2026-11-13T06:00:00Z"
+                }
+            ]
+}

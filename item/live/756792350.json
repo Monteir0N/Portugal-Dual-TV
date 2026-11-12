@@ -1,0 +1,26 @@
+{
+    "id":  "756792350",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/756792350"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "RTP 2 (1)",
+    "epg":  [
+                {
+                    "title":  "As Vozes do Sahara: Juntos Contra a Seca",
+                    "start":  "2026-11-12T22:50:00Z",
+                    "end":  "2026-11-12T23:43:00Z"
+                },
+                {
+                    "title":  "Deus e Ciência",
+                    "start":  "2026-11-12T23:43:00Z",
+                    "end":  "2026-11-13T00:31:00Z"
+                }
+            ]
+}

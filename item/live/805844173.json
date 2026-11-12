@@ -1,0 +1,29 @@
+{
+    "id":  "805844173",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/805844173"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/805844173.png"
+               },
+    "name":  "CM TV (6)",
+    "epg":  [
+                {
+                    "title":  "Liga d\u0027Ouro",
+                    "start":  "2026-11-12T21:57:00Z",
+                    "end":  "2026-11-13T00:30:00Z"
+                },
+                {
+                    "title":  "Jornal da Meia-Noite",
+                    "start":  "2026-11-13T00:30:00Z",
+                    "end":  "2026-11-13T00:50:00Z"
+                }
+            ]
+}

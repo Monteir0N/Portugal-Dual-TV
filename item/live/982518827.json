@@ -1,0 +1,29 @@
+{
+    "id":  "982518827",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/982518827"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/982518827.png"
+               },
+    "name":  "FIGHT NETWORK (6)",
+    "epg":  [
+                {
+                    "title":  "Bellator 205",
+                    "start":  "2026-11-12T23:00:00Z",
+                    "end":  "2026-11-13T00:30:00Z"
+                },
+                {
+                    "title":  "Immersed - Order 4: Part 1",
+                    "start":  "2026-11-13T00:30:00Z",
+                    "end":  "2026-11-13T01:00:00Z"
+                }
+            ]
+}

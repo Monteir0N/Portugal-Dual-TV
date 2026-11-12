@@ -1,0 +1,29 @@
+{
+    "id":  "747491557",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/747491557"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/747491557.png"
+               },
+    "name":  "CANAL Q (6)",
+    "epg":  [
+                {
+                    "title":  "Onde Nasce o Vinho",
+                    "start":  "2026-11-12T22:40:00Z",
+                    "end":  "2026-11-12T23:16:00Z"
+                },
+                {
+                    "title":  "Festival Meda",
+                    "start":  "2026-11-12T23:16:00Z",
+                    "end":  "2026-11-12T23:23:00Z"
+                }
+            ]
+}

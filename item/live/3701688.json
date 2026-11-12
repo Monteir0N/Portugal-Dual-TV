@@ -1,0 +1,17 @@
+{
+    "id":  "3701688",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/3701688"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/3701688.png"
+               },
+    "name":  "HBO PORTUGAL (6)"
+}

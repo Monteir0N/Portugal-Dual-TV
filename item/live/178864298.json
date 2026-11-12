@@ -1,0 +1,29 @@
+{
+    "id":  "178864298",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/178864298"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/178864298.png"
+               },
+    "name":  "SIC RADICAL (6)",
+    "epg":  [
+                {
+                    "title":  "Boston Legal",
+                    "start":  "2026-11-12T22:30:00Z",
+                    "end":  "2026-11-12T23:15:00Z"
+                },
+                {
+                    "title":  "Ninja Warrior Uk",
+                    "start":  "2026-11-12T23:15:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                }
+            ]
+}

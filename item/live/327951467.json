@@ -1,0 +1,29 @@
+{
+    "id":  "327951467",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/327951467"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "images":  {
+                   "logo":  "https://www.geil.to/live2/logo/327951467.png"
+               },
+    "name":  "CRIME+ INVESTIGATION (6)",
+    "epg":  [
+                {
+                    "title":  "Accused: Guilty Or...",
+                    "start":  "2026-11-12T22:50:00Z",
+                    "end":  "2026-11-12T23:45:00Z"
+                },
+                {
+                    "title":  "Hoarders",
+                    "start":  "2026-11-12T23:45:00Z",
+                    "end":  "2026-11-13T00:40:00Z"
+                }
+            ]
+}

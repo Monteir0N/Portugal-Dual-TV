@@ -1,0 +1,26 @@
+{
+    "id":  "230373228",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/230373228"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "CNBC (6)",
+    "epg":  [
+                {
+                    "title":  "Asia Squawk Box",
+                    "start":  "2026-11-12T23:00:00Z",
+                    "end":  "2026-11-12T23:30:00Z"
+                },
+                {
+                    "title":  "Asia Squawk Box",
+                    "start":  "2026-11-12T23:30:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                }
+            ]
+}

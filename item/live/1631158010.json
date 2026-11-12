@@ -1,0 +1,26 @@
+{
+    "id":  "1631158010",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/1631158010"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "EUROSPORT 1 HD (1)",
+    "epg":  [
+                {
+                    "title":  "FIA WEC",
+                    "start":  "2026-11-12T22:30:00Z",
+                    "end":  "2026-11-13T00:30:00Z"
+                },
+                {
+                    "title":  "Sendepause",
+                    "start":  "2026-11-13T00:30:00Z",
+                    "end":  "2026-11-13T02:00:00Z"
+                }
+            ]
+}

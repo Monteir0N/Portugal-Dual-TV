@@ -1,0 +1,26 @@
+{
+    "id":  "2164586665",
+    "type":  "live",
+    "sources":  [
+                    {
+                        "name":  "geil.to",
+                        "url":  "https://geil.to/live/play/2164586665"
+                    }
+                ],
+    "tags":  [
+                 "Portugal"
+             ],
+    "name":  "TVI REALITY (1)",
+    "epg":  [
+                {
+                    "title":  "Big Brother All stars - Direto",
+                    "start":  "2026-11-12T22:15:00Z",
+                    "end":  "2026-11-13T00:00:00Z"
+                },
+                {
+                    "title":  "TV Shop",
+                    "start":  "2026-11-13T00:00:00Z",
+                    "end":  "2026-11-13T01:30:00Z"
+                }
+            ]
+}
