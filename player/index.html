@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Portugal Dual TV</title>
+<style>
+:root{color-scheme:dark;font-family:Arial,sans-serif}
+*{box-sizing:border-box}
+body{margin:0;background:#101318;color:#f3f4f6}
+header{padding:14px 18px;background:#191f29;display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+h1{font-size:19px;margin:0}
+.actions{display:flex;gap:8px;flex-wrap:wrap}
+button,select{background:#252e3b;color:#fff;border:1px solid #465366;border-radius:7px;padding:9px}
+button{cursor:pointer}
+main{padding:14px;display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.panel{min-width:0;background:#191f29;border:1px solid #303b4b;border-radius:10px;overflow:hidden}
+.controls{display:flex;gap:8px;padding:10px}
+select{min-width:0;flex:1}
+video{display:block;width:100%;aspect-ratio:16/9;background:#000}
+.status{padding:8px 10px;color:#b8c2d1;font-size:13px;min-height:32px}
+@media(max-width:760px){main{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header>
+  <h1>Portugal Dual TV</h1>
+  <div class="actions">
+    <button id="swap">Trocar canais</button>
+    <button id="stop">Parar ambos</button>
+  </div>
+</header>
+<main>
+  <section class="panel">
+    <div class="controls">
+      <select id="channel0" aria-label="Canal do ecrã esquerdo"></select>
+      <button data-play="0">Reproduzir</button>
+    </div>
+    <video id="video0" controls playsinline></video>
+    <div class="status" id="status0">A carregar canais…</div>
+  </section>
+  <section class="panel">
+    <div class="controls">
+      <select id="channel1" aria-label="Canal do ecrã direito"></select>
+      <button data-play="1">Reproduzir</button>
+    </div>
+    <video id="video1" controls playsinline></video>
+    <div class="status" id="status1">A carregar canais…</div>
+  </section>
+</main>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script>
+const CATALOG_URL = "../catalog/live/portugal.json";
+let channels = [];
+const players = [null, null];
+
+function setStatus(index, message) {
+  document.getElementById(`status${index}`).textContent = message;
+}
+function setStream(index, url) {
+  const video = document.getElementById(`video${index}`);
+  if (players[index]) {
+    players[index].destroy();
+    players[index] = null;
+  }
+  video.pause();
+  video.removeAttribute("src");
+  video.load();
+
+  if (window.Hls && Hls.isSupported()) {
+    const hls = new Hls();
+    players[index] = hls;
+    hls.loadSource(url);
+    hls.attachMedia(video);
+    hls.on(Hls.Events.ERROR, (_, data) => {
+      if (data.fatal) setStatus(index, "Erro ao carregar o stream HLS.");
+    });
+    video.play().catch(() => setStatus(index, "Stream carregado. Carrega em Play."));
+  } else if (video.canPlayType("application/vnd.apple.mpegurl")) {
+    video.src = url;
+    video.play().catch(() => setStatus(index, "Stream carregado. Carrega em Play."));
+  } else {
+    setStatus(index, "Este browser não suporta HLS.");
+    return;
+  }
+}
+async function playChannel(index) {
+  const select = document.getElementById(`channel${index}`);
+  const channel = channels.find(c => c.id === select.value);
+  if (!channel) return;
+
+  // Resolve endpoint is stored in the catalogue source URL.
+  const resolverUrl = channel.sources?.[0]?.url;
+  if (!resolverUrl) {
+    setStatus(index, "Este canal não tem uma source URL.");
+    return;
+  }
+
+  setStatus(index, "A obter o endereço do stream…");
+  try {
+    const response = await fetch(resolverUrl);
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const data = await response.json();
+    if (!data.url) throw new Error("A resposta do resolver não contém o campo 'url'.");
+    setStatus(index, `${data.name || channel.name} — ${data.format || "stream"}`);
+    setStream(index, data.url);
+  } catch (error) {
+    setStatus(index, `Não foi possível resolver o canal: ${error.message}. Se for CORS, será necessário um proxy no servidor.`);
+  }
+}
+async function loadChannels() {
+  try {
+    const response = await fetch(CATALOG_URL);
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const data = await response.json();
+    channels = data.items || [];
+    for (let i = 0; i < 2; i++) {
+      const select = document.getElementById(`channel${i}`);
+      select.innerHTML = "";
+      channels.forEach(channel => {
+        const option = document.createElement("option");
+        option.value = channel.id;
+        option.textContent = channel.name;
+        select.appendChild(option);
+      });
+      setStatus(i, `${channels.length} canais carregados.`);
+    }
+  } catch (error) {
+    for (let i = 0; i < 2; i++) setStatus(i, `Erro ao carregar catálogo: ${error.message}`);
+  }
+}
+document.querySelectorAll("[data-play]").forEach(button => {
+  button.addEventListener("click", () => playChannel(Number(button.dataset.play)));
+});
+document.getElementById("swap").addEventListener("click", () => {
+  const a = document.getElementById("channel0");
+  const b = document.getElementById("channel1");
+  const value = a.value;
+  a.value = b.value;
+  b.value = value;
+});
+document.getElementById("stop").addEventListener("click", () => {
+  for (let i = 0; i < 2; i++) {
+    if (players[i]) { players[i].destroy(); players[i] = null; }
+    const video = document.getElementById(`video${i}`);
+    video.pause(); video.removeAttribute("src"); video.load();
+    setStatus(i, "Reprodução parada.");
+  }
+});
+loadChannels();
+</script>
+</body>
+</html>

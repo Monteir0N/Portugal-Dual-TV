@@ -1,0 +1,23 @@
+{
+  "id": "com.portugal.dualtv",
+  "name": "Portugal Dual TV",
+  "specVersion": 2,
+  "version": "1.1.0",
+  "description": "Portuguese live TV channels from geil.to.",
+  "resources": ["catalog", "item"],
+  "types": ["live"],
+  "catalogs": [
+    {
+      "id": "portugal",
+      "name": "Canais Portugueses",
+      "type": "live"
+    }
+  ],
+  "regions": ["PT"],
+  "languages": ["pt"],
+  "adult": false,
+  "identity": "none",
+  "cache": {
+    "catalog": 300
+  }
+}
